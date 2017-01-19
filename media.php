@@ -13,7 +13,7 @@ $nisn		= $_SESSION['nisn'];
 <meta name="description" content="">
 <meta name="keywords" content="">
 <meta http-equiv="Copyright" content="SMAMITRABINTARO">
-<meta name="author" content="Mohammad Aminuddin">
+<meta name="author" content="Triastuti">
 <meta http-equiv="imagetoolbar" content="no">
 <meta name="language" content="Indonesia">
 <meta name="revisit-after" content="7">

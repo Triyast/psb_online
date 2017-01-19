@@ -23,10 +23,10 @@
 		    </h1>
                     <h1>SMA Mitra Bintaro</h1>
                     <h3>Sistem Informasi Penerimaan Peserta Didik Baru Online</h3>
-                    <p>Dukungan penuh memudahkan bagi Calon Peserta Didik Baru untuk mendaftarkan diri, mengisi formulir dan mengikuti tes seleksi.</a>
+                    <p>Dukungan penuh memudahkan bagi Calon Peserta Didik Baru untuk mendaftarkan diri, mengisi formulir dan melengkapi persyaratan pendaftaran.
                     </p>
                     <div class="alert alert-info alert-dismissable">
-                        <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+                      <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
                         <?include "msg.php";?>
                     </div>
                 </div>
@@ -69,7 +69,7 @@
                             <img src="img/grayscale.jpg" class="img-responsive" alt="Free Bootstrap Responsive One Page Theme">
                         </a>
                         <h3>Brosur Kurikulum</h3>
-                        <p>Kurikulum tahun ajaran 2014-2015 SMA Mitra Bintaro . dengan standar kompetensi Dikti dan Mendagri</p>
+                        <p>Kurikulum tahun ajaran 2016-2017 SMA Mitra Bintaro . dengan standar kompetensi Dikti dan Mendagri</p>
                         <div class="btn-group"><a class="btn btn-primary" href="grayscale.php">Lihat &amp; Unduh</a>
                         </div>
                     </div>
@@ -81,7 +81,7 @@
                             <img src="img/sb-admin-v2.jpg" class="img-responsive" alt="Free Bootstrap Admin Template for Bootstrap 3">
                         </a>
                         <h3>Brosur Biaya Pendaftaran</h3>
-                        <p>A <em>SMK Duta Merlin </em> memberikan biaya pendidikan yang terjangkau.</p>
+                        <p><em>SMA Mitra Bintaro </em> memberikan biaya pendidikan yang terjangkau.</p>
                         <div class="btn-group"><a class="btn btn-primary" href="sb-admin-v2.php">Lihat &amp; Unduh</a>
                         </div>
                     </div>
